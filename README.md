@@ -23,5 +23,5 @@ This repo is a case study of various Algorithms for music Generation, where the 
 	<li> Encoder + Decoder</li>
 		</ul>
 </li>
-<li> Compound Word Transformer or CP - Transformer ( <a href="https://colab.research.google.com/drive/1AU8iMhy10WxHj7yt3j8S3FQvvKvgXrr0#scrollTo=CDNIjDb__XeW">Colab Notebook</a> )</ul>
+<li> Compound Word Transformer or CP - Transformer ( <a href="https://colab.research.google.com/drive/1AU8iMhy10WxHj7yt3j8S3FQvvKvgXrr0">Colab Notebook</a> )</ul>
 </ul>
